@@ -10,7 +10,7 @@ Their aim is to obtain money from people by telling emotional stories. Because t
 ### Problem — Fake Authority Impersonation
 Scammers also impersonate as police officers, bank officials or some government officials and ask for a settlement amount. They do not always use AI, but they create a scenario and try to convince people to send money. Because the situation sounds serious or urgent, many people get scared and transfer the money.
 
-### Problem 3 - Threat or Extortion 
+### Problem - Threat or Extortion 
 During a threat or extortion call, users often panic and do not know what to do in that situation. They get confused about whom to connect with and what steps they should take.
 
 ## One Stop Solution:
